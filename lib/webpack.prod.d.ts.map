@@ -1,0 +1,1 @@
+{"version":3,"file":"webpack.prod.d.ts","sourceRoot":"","sources":["../src/webpack.prod.ts"],"names":[],"mappings":";AAMA,OAAO,KAAK,EAAE,aAAa,EAAE,MAAM,SAAS,CAAA;AAC5C,OAAO,KAAK,EAAE,gBAAgB,EAAE,qBAAqB,EAAE,MAAM,gBAAgB,CAAA;AAS7E,eAAO,MAAM,uBAAuB,qBAChB,gBAAgB,UAC1B,qBAAqB,KAC5B,OAAO,CAAC,aAAa,CA0BtB,CAAA"}

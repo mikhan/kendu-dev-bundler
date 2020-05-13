@@ -1,0 +1,1 @@
+{"version":3,"file":"pwaManifest.d.ts","sourceRoot":"","sources":["../../src/webpack/pwaManifest.ts"],"names":[],"mappings":"AACA,OAAO,kBAAkB,MAAM,sBAAsB,CAAA;AACrD,OAAO,KAAK,EAAE,gBAAgB,EAAE,qBAAqB,EAAE,MAAM,iBAAiB,CAAA;AAI9E,eAAO,MAAM,kBAAkB,qBAA4B,gBAAgB,UAAU,qBAAqB,gCA4BzG,CAAA"}

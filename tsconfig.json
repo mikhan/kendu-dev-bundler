@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "rootDir": "./src",
+    "target": "ES2019",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./lib",
+    "declaration": true,
+    "declarationMap": true,
+    "resolveJsonModule": true,
+    "noEmitOnError": true
+  },
+  "include": ["src/**/*"]
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"Symlink.d.ts","sourceRoot":"","sources":["../../src/webpack/Symlink.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAA;AAIvC,aAAK,IAAI,GAAG;IACR,MAAM,EAAE,MAAM,CAAA;IACd,IAAI,EAAE,MAAM,CAAA;CACf,CAAA;AAqBD,qBAAa,mBAAmB;IAChB,OAAO,CAAC,OAAO;gBAAP,OAAO,EAAE,IAAI,EAAE;IAEnC,KAAK,CAAC,QAAQ,EAAE,QAAQ;CAW3B"}

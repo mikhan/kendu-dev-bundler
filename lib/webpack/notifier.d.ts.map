@@ -1,0 +1,1 @@
+{"version":3,"file":"notifier.d.ts","sourceRoot":"","sources":["../../src/webpack/notifier.ts"],"names":[],"mappings":"AACA,OAAO,qBAAqB,MAAM,kBAAkB,CAAA;AACpD,OAAO,KAAK,EAAE,gBAAgB,EAAE,qBAAqB,EAAE,MAAM,iBAAiB,CAAA;AAE9E,eAAO,MAAM,eAAe,qBAA4B,gBAAgB,UAAU,qBAAqB,mCAMtG,CAAA"}
